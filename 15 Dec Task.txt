@@ -1,0 +1,24 @@
+		VoIP 
+ISD activation for all cabins.
+Change the cabin name and publish Extension list.
+
+		Server
+Copy data from slave to HDD
+Connect HDD to Jupiter.
+Script for Ravi
+
+		Software
+DB backup(Kriskosoftware)
+
+		Network
+Backup AP Config
+Config SNMP for AP
+Enforce ACL
+
+
+FUTURE ENHANCEMENT
+	Bak Nis
+	Bak cvs
+	Migrate kriskosoft
+	Migrate Manage Engine
+	.
